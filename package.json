@@ -1,7 +1,7 @@
 {
+  "homepage": "http://NoorGigabytes.github.io/periodic-table",
   "name": "periodic-table",
   "version": "0.1.0",
-  "homepage": "https://NoorGigabytes.github.io/periodic-table",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
